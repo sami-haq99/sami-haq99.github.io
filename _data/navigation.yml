@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Projects & Competitions"
-    url: /proj_comp/    
+  - title: "Projects"
+    url: /projects/    
 
-  - title: "Professional Experiences"
-    url: /prof/
+  - title: "Work"
+    url: /work/
         
   - title: "Awards & Honors"
     url: /honors/
