@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Xueqing Wu"
   avatar           : "smaller_me.jpg"
-  bio              : "Senior undergraduate in the Department of Electronic Engineering and Information Science, University of Science and Technology"
+  bio              : |
+    Senior undergraduate
+    Electronic Engineering and Information Science
+    University of Science and Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
