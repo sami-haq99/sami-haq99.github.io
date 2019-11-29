@@ -187,12 +187,12 @@ collections:
   research_robo:
     output: true
     permanlink: /research/robo/:path/
-  projects:
+  projects_cs:
     output: true
-    permalink: /:collection/:path/
-  honors:
+    permalink: /projects/cs/:path/
+  projects_mcu:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/mcu/:path/
 
 
 # Defaults
