@@ -27,7 +27,7 @@ This is a list of all my research; please visit [here](/research/) for a list of
   {% include archive-single-mine.html %}
 {% endfor %}
 
-# Robot System
+# Robotics
 
 {% for post in site.research_robo reversed %}
   {% include archive-single-mine.html %}
