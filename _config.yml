@@ -181,12 +181,6 @@ collections:
   research_cv:
     output: true
     permanlink: /research/cv/:path/
-  research_dm:
-    output: true
-    permanlink: /research/dm/:path/
-  research_robo:
-    output: true
-    permanlink: /research/robo/:path/
   projects_cs:
     output: true
     permalink: /projects/cs/:path/
