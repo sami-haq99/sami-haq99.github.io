@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Xueqing"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -13,7 +14,7 @@ I plan to join a graduate program in computer science in the fall of 2020. After
 # Education
 
 University of Science and Technology, *Sep. 2016 - Jul. 2020*
-* BS in Electronic Engineering & Information Science
+* B.S. in Electronic Engineering & Information Science
 * Member of Honors Program in Computer and Information Science and Technology
 * Member of Honors Program in AI
 * GPA: 4.06/4.30 (Ranking: 1/363); Transcript: [Chinese](/files/transcript_chi.pdf), [English](/files/transcript_eng.pdf)

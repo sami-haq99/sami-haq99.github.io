@@ -175,16 +175,22 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research_nlp:
+    output: true
+    permalink: /research/nlp/:path/
+  research_cv:
+    output: true
+    permanlink: /research/cv/:path/
+  research_dm:
+    output: true
+    permanlink: /research/dm/:path/
+  research_robo:
+    output: true
+    permanlink: /research/robo/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  honors:
     output: true
     permalink: /:collection/:path/
 
