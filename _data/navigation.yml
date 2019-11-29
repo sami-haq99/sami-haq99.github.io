@@ -9,11 +9,12 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Work"
-    url: /work/
-        
   - title: "Awards & Honors"
     url: /honors/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV.pdf
+
+  - title: "Contact"
+    url: /contact/
+
