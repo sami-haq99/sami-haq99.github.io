@@ -209,39 +209,37 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research_nlp
   - scope:
       path: ""
-      type: teaching
+      type: research_nlp
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _publications
+      # comments: true
+  # _research_cv
   - scope:
       path: ""
-      type: publications
+      type: research_cv
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
+  # _projects_cs
   - scope:
       path: ""
-      type: portfolio
+      type: projects_cs
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+  # _projects_mcu
   - scope:
       path: ""
-      type: talks
+      type: projects_mcu
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
