@@ -41,10 +41,8 @@
       {% else %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.start_date | date: '%B, %Y' }} - Present</p>
       {% endif %}
-    {% else %}
-      {% if post.date %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}</p>
-      {% endif %}
+    {% elsif post.date %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}</p>
     {% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
