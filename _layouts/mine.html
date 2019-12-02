@@ -20,7 +20,17 @@ layout: default
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if post.start_date %}
+      {% if post.end_date %}
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.start_date | date: '%B, %Y' }} - {{ post.end_date | date: '%B, %Y' }}</p>
+      {% else %}
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.start_date | date: '%B, %Y' }} - Present</p>
+      {% endif %}
+    {% else %}
+      {% if post.date %}
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B, %Y' }}</p>
+      {% endif %}
+    {% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap">
