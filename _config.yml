@@ -216,7 +216,7 @@ defaults:
     values:
       layout: mine
       author_profile: true
-      share: true
+      # share: true
       # comments: true
   # _research_cv
   - scope:
@@ -225,7 +225,6 @@ defaults:
     values:
       layout: mine
       author_profile: true
-      share: true
   # _projects_cs
   - scope:
       path: ""
@@ -233,7 +232,6 @@ defaults:
     values:
       layout: mine
       author_profile: true
-      share: true
   # _projects_mcu
   - scope:
       path: ""
@@ -241,7 +239,6 @@ defaults:
     values:
       layout: mine
       author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
