@@ -23,8 +23,8 @@ University of Science and Technology, *Sep. 2016 - Jul. 2020*
 
 * **Natural Language Processing**
   * Pretraining-finetuning models, especially when applied to downstream tasks with scarce training data
-  * Cross-lingual representation
   * Text generation, QA
+  * Cross-lingual representation
 * Computer Vision
   * Vision-to-language tasks, e.g. VQA, image captioning
 * Data Mining
