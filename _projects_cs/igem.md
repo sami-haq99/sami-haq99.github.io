@@ -15,7 +15,6 @@ For the detail of our project, please refer to our [wiki](http://2017.igem.org/T
 This is our [github repo](https://github.com/igemsoftware2017/USTC-Software-2017) if you are interested in our source code.
 
 In this project, I was a member of backend group and was responsible for building the search engine, BioSearch. I also participated in the design and implementation of BioSearch plugin.
-
 This is our team with 17 people:
 
 ![](/images/igem_staff.jpg)
