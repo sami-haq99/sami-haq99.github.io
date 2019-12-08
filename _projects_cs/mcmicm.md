@@ -6,3 +6,5 @@ excerpt: "This is the project for MCM/ICM competition and earned the title of Me
 date: Jan. 2019
 selected: false
 ---
+
+The project is for **MCM/ICM** competition and earned the title of **Meritorious Winner**.
