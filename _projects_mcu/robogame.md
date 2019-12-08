@@ -15,6 +15,14 @@ Our robot should grab four flags placed on wooden boxes of four specific colors,
 
 Our robot is called Qibing (旗兵 in Chinese, meaning a flag soldier). Using OpenCV on Raspberry Pi, we were able to identify the color of the boxes and decide the moving strategy. We used STM32 as the movement controller and implemented PID control algorithm on STM32 to guarantee stable and high-speed movement. Finally, we employed UART devices for efficient and reliable communication between the Raspberry Pi and STM32.
 
-Below is our robot. If you are interested in the performance of our robot, check the video of the [exhibition game](https://youtu.be/flF1CCWiBO4) (Qibing is on the red side, i.e. on the right side of the stage).
+Below is our robot. If you are interested in his stage performance, check the video of the [exhibition game](https://youtu.be/flF1CCWiBO4) (Qibing is on the red side, i.e. on the right side of the stage).
 
 ![](/images/robogame_qibing.jpg)
+
+Our team consists of five people. I was responsible for algorithm design, all STM32 programming and most Raspberry Pi programming. This is our team:
+
+![](/images/robogame_comp.jpg)
+
+And this is our award certificate:
+
+![](/images/robogame_certi.png)
