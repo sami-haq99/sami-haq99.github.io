@@ -2,7 +2,7 @@
 title: "Qibing Robot"
 collection: projects_mcu
 permalink: /projects/mcu/robogame
-excerpt: "This is the project for Robogame and won the first prize."
+excerpt: "This project is for Robogame, a robot design contest held by USTC, and won the first prize. Our robot is called Qibing (旗兵 in Chinese, meaning a flag soldier). Using OpenCV on Raspberry Pi, we were able to identify the color of the boxes and decide the moving strategy. We used STM32 as the movement controller and implemented PID control algorithm on STM32 to guarantee stable and high-speed movement. Finally, we employed UART devices for efficient and reliable communication between the Raspberry Pi and STM32."
 start_date: Sep. 2017
 end_date: Apr. 2018
 date: Oct. 2018
