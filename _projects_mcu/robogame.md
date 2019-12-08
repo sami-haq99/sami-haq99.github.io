@@ -27,17 +27,11 @@ And this is our award certificate:
 
 ## <span id="rules" /> Detailed Rules
 
-As 
+The motto of USTC is "红专并进理实交融". As 2018 is the 60th anniversary of USTC, the Robogame committee designed a special game based on this theme.
 
 The game is divided into red and blue sides. Both robots start from the starting area at the same time and reach the designated position through the patrol line. There are eight flags with different colors along the road, marked as "红", "专", "并", "进", "理", "实", "交" and "融" respectively. Each player should select different flags according to the color; The blue player chooses the four flags marked "红", "专", "并", and "进", and the red one chooses the four flags designated by "理", "实", "交" and "融". After holding the flag, the robot should place the flags on cylinders of different heights in order. Due to the limited size of the robot, the robot can only place the flag on the tall cylinder by climbing up it. The player who completes the game faster wins.
 
+![](/images/robogame_rules.png)
+
 If you still cannot understand the rule, check the [exhibition game](https://youtu.be/flF1CCWiBO4).
-
-A rough explanation of the stage is as below:
-
-![](/images/robogame_stage_3d.jpg)
-
-And below is a more accurate explanation.
-
-![](/images/robogame_stage_2d.jpg)
 
