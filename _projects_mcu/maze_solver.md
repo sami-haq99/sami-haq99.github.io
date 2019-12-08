@@ -10,3 +10,8 @@ selected: false
 ---
 
 This project is for the Electronic Design Practice II course and the **Electronic Design Contest of USTC**, and won the **third prize** in the competition.
+
+This is our award certificate:
+
+![](/images/mazesolver_certi.png)
+
