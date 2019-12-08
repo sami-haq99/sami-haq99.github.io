@@ -11,7 +11,7 @@ The project is for **MCM/ICM** competition and earned the title of **Meritorious
 
 If you are interested in the technical details, please read our [report](/files/mcmicm_report.pdf). This is our award certificate:
 
-![](/files/mcmicm_certificate.pdf)
+![](/images/mcmicm_certificate.png)
 
 Our team consists of three people, and I am the team leader and the main programmer. I also participated in mathematical modeling and dissertation writing. This is our team:
 
