@@ -11,8 +11,8 @@ author_profile: true
 
 My experience with NLP came from:
 
-* Machine Learning Group, Microsoft Research Asia, *Oct. 2019 - Jul. 2020*
-* ScAI Lab, UCLA, supervised by Prof. Wei Wang
+* [Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Microsoft Research Asia, supervised by Dr. Tao Qin, *Oct. 2019 - Jul. 2020*
+* ScAI Lab, UCLA, supervised by Prof. Wei Wang and Prof. Yizhou Wei, *Jul. 2019 - Sep. 2019*
 
 {% for post in site.research_nlp reversed %}
   {% include archive-single-mine.html %}
