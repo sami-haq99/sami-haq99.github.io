@@ -26,5 +26,5 @@ We divided the team into two groups: back-end group and front-end group. In each
 
 We also utilized modern software engineering techniques including taskboard and burndown to track our development. This is an example of our taskboard:
 
-![](/images/hearttrace_taskboard.png)
+![](/images/hearttrace_tasks.png)
 
