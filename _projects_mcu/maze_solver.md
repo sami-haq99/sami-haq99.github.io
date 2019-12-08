@@ -8,3 +8,5 @@ end_date: Jan. 2018
 date: Jan. 2018
 selected: false
 ---
+
+This project is for the Electronic Design Practice II course and the **Electronic Design Contest of USTC**, and won the **third prize** in the competition.

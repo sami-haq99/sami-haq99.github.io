@@ -19,3 +19,7 @@ In this project, I was a member of backend group and was responsible for buildin
 This is our team with 17 people:
 
 ![](/images/igem_staff.jpg)
+
+This is our award certificate:
+
+![](/images/igem_certi.png)
