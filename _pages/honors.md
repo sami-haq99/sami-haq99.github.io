@@ -4,7 +4,7 @@ title: "Awards & Honors"
 author_profile: true
 ---
 
-# Competitions
+## Competitions
 
 *  **First Place** in Task 1, **Second Place** in Task 2, Challenge-2019 on Object Detection in Aerial Images, *Apr. 2019*
 * **Meritorious Winner**, MCM / ICM, *Jan. 2019*
@@ -13,7 +13,7 @@ author_profile: true
 * **Third Prize**, USTC Electronic Design Contest, *Jan. 2018*
 * **Medal Prize**, Software Track, International Genetically Engineered Machine Competition, *Nov. 2017* 
 
-# Scholarships & Honors
+## Scholarships & Honors
 
 * **Honorary Rank** (Top 5%), USTC, *Nov. 2019*
 * **Guo Moruo Scholarship** (Highest honor at USTC, top 1%), USTC, *Oct. 2019*
