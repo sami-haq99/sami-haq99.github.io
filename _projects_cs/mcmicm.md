@@ -11,8 +11,9 @@ The project is for **MCM/ICM** competition and earned the title of **Meritorious
 
 If you are interested in the technical details, please read the detailed [problem description](http://www.mathmodels.org/Problems/2019/ICM-D/index.html) and our [report](/files/mcmicm_report.pdf). This is our award certificate:
 
-![](/images/mcmicm_staff.png)
+![](/images/mcmicm_staff.jpg)
 
 Our team consists of three people, and I am the team leader and the main programmer. I also participated in mathematical modeling and dissertation writing. This is our team:
 
 ![](/images/mcmicm_staff.jpg)
+
