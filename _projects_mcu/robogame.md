@@ -17,3 +17,4 @@ Our robot is called Qibing (旗兵 in Chinese, meaning a flag soldier). Using Op
 
 Below is our robot. If you are interested in the performance of our robot, check the video of the [exhibition game](https://youtu.be/flF1CCWiBO4) (Qibing is on the red side, i.e. on the right side of the stage).
 
+![](/images/robogame_qibing.jpg)
