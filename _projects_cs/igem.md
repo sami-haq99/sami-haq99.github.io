@@ -1,5 +1,5 @@
 ---
-*title: "Biohub 2.0"
+title: "Biohub 2.0"
 collection: projects_cs
 permalink: /projects/cs/igem
 excerpt: 
