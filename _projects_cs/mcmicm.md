@@ -13,4 +13,6 @@ If you are interested in the technical details, please read our [report](/files/
 
 ![](/files/mcmicm_certificate.pdf)
 
-Our team consists of three people, and I am the team leader and the main programmer. I also participated in mathematical modeling and dissertation writing.
+Our team consists of three people, and I am the team leader and the main programmer. I also participated in mathematical modeling and dissertation writing. This is our team:
+
+![](/images/mcmicm_staff.jpg)
