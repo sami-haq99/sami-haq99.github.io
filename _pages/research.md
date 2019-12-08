@@ -20,7 +20,7 @@ My experience with NLP came from:
 
 # Computer Vision
 
-At USTC, I joined two labs:
+At USTC, I joined two labs on computer vision:
 
 * [National Engineering Laboratory for Speech and Language Information Processing](http://nelslip.ustc.edu.cn/) (NEL-SLIP), supervised by Prof. [Jun Du](http://staff.ustc.edu.cn/~jundu/The%20team.html), *Sep. 2018 - Sep. 2019*
 * MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, supervised by Prof. [Weiping Li](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=1565), *Apr. 2019 - Jul. 2019*
