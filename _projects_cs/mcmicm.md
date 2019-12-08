@@ -13,7 +13,7 @@ We employed cellular automata models to build high-resolution Louvre models and 
 
 If you are interested in the technical details, please read the detailed [problem description](http://www.mathmodels.org/Problems/2019/ICM-D/index.html) and our [report](/files/mcmicm_report.pdf). This is our award certificate:
 
-![](/images/mcmicm_certi.png)
+![](/images/mcmicm_staff.png)
 
 Our team consists of three people, and I am the team leader and the main programmer. I also participated in mathematical modeling and dissertation writing. This is our team:
 
