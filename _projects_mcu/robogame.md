@@ -6,7 +6,7 @@ excerpt: "This project is for **Robogame**, a robot design contest held by USTC,
 start_date: Sep. 2017
 end_date: Apr. 2018
 date: Oct. 2018
-selected: false
+selected: true
 ---
 
 This project is for **Robogame**, a robot design contest held by USTC, and won the **first prize**. Here is the [detailed rules](#rules) for this competitions.
