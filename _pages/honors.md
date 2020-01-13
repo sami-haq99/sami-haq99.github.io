@@ -11,7 +11,7 @@ author_profile: true
 * **First Prize**, Robogame, USTC, *Nov. 2018*
 * **Second Prize**, Anhui Province, National Undergraduate Electronic Design Contest, *Jun. 2018*
 * **Third Prize**, USTC Electronic Design Contest, *Jan. 2018*
-* **Medal Prize**, Software Track, International Genetically Engineered Machine Competition, *Nov. 2017* 
+* **Gold Medal**, Software Track, International Genetically Engineered Machine Competition, *Nov. 2017* 
 
 ## Scholarships & Honors
 
