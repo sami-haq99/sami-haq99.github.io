@@ -32,5 +32,5 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 # live2D
 
-To get a really really cute katty, I followed this [post](https://www.oukohou.wang/2018/11/29/live2D_installation/).
+To get a really really cute cat, I followed this [post](https://www.oukohou.wang/2018/11/29/live2D_installation/).
 

@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate at the University of Science and Technology, and I major in the Electrical Engineering and Information Science. Now I am working at Machine Learning Group, MSRA with Dr. Tao Qin. My main research interests are Artificial Intelligence and Natural Language Processing. I am also interested in other areas of AI, such as Data Mining and Computer Vision.
+I am an undergraduate from the University of Science and Technology of China (USTC), majoring in electrical engineering and informatics, and will graduate in June 2020. I will join the University of Illinois at Urbana-Champaign (UIUC) as an MSCS student in fall 2020 (but due to the COVID-19 epidemic, it is possible to postpone enrollment until spring 2021).
 
-I plan to join a graduate program in computer science in the fall of 2020. After graduation, I plan to join the industry, e.g. by leading a research lab, and develop NLP technology with real-world applications and positive social impacts.
+Currently I am a research intern in the Machine Learning Group, Microsoft Research Asia supervised by Dr. Tao Qin, and I am working on machine translation.
+
+**Looking for job!** I am looking for a research intern position in the industry from July 2020 to December 2020.
+My research interests include text generation and knowledge-aware NLP.
 
 # Education
 
@@ -21,10 +24,5 @@ University of Science and Technology, *Sep. 2016 - Jul. 2020*
 
 # Research Interests
 
-* **Natural Language Processing**
-  * Text generation, QA
-  * Pretraining-finetuning models, especially when applied to downstream tasks with scarce training data
-  * Cross-lingual representation
-* Computer Vision
-  * Vision-to-language tasks, e.g. VQA, image captioning
-* Data Mining
+* Text generation, QA, dialogue generation
+* Knowledge-aware NLP
