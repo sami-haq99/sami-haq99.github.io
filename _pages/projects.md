@@ -9,7 +9,7 @@ This is a list of selected projects; please visit [here](/projects_full/) for a 
 
 {% include base_path %}
 
-{% for post in sites.projects reversed %}
+{% for post in site.projects reversed %}
   {% if post.selected %}
     {% include archive-single-mine.html %}
   {% endif %}
