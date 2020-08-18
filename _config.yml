@@ -175,12 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  research_nlp:
+  research:
     output: true
-    permalink: /research/nlp/:path/
-  research_cv:
-    output: true
-    permanlink: /research/cv/:path/
+    permalink: /research/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -206,33 +203,17 @@ defaults:
     values:
       layout: mine
       author_profile: true
-  # _research_nlp
+  # _research
   - scope:
       path: ""
-      type: research_nlp
+      type: research
     values:
       layout: mine
       author_profile: true
-      # share: true
-      # comments: true
-  # _research_cv
+  # _projects
   - scope:
       path: ""
-      type: research_cv
-    values:
-      layout: mine
-      author_profile: true
-  # _projects_cs
-  - scope:
-      path: ""
-      type: projects_cs
-    values:
-      layout: mine
-      author_profile: true
-  # _projects_mcu
-  - scope:
-      path: ""
-      type: projects_mcu
+      type: projects
     values:
       layout: mine
       author_profile: true
