@@ -181,12 +181,9 @@ collections:
   research_cv:
     output: true
     permanlink: /research/cv/:path/
-  projects_cs:
+  projects:
     output: true
-    permalink: /projects/cs/:path/
-  projects_mcu:
-    output: true
-    permalink: /projects/mcu/:path/
+    permalink: /projects/:path/
 
 
 # Defaults

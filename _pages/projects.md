@@ -9,9 +9,7 @@ This is a list of selected projects; please visit [here](/projects_full/) for a 
 
 {% include base_path %}
 
-{% assign posts = site.projects_mcu | concat: sites.projects_cs %}
-
-{% for post in posts reversed %}
+{% for post in sites.projects reversed %}
   {% if post.selected %}
     {% include archive-single-mine.html %}
   {% endif %}

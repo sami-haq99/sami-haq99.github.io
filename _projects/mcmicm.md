@@ -1,9 +1,10 @@
 ---
 title: "Louvre Emergency Evacuation"
-collection: projects_cs
-permalink: /projects/cs/mcmicm
+collection: projects
+permalink: /projects/mcmicm
 excerpt: "The project is for **MCM/ICM** competition and earned the title of **Meritorious Winner**. We employed cellular automata to build a high-resolution model of Louvre, and simulated the basic evacuation strategy with high accuracy. On this basis, we proposed three improved evacuation strategies, including using additional exits, broadcasting via mobile apps, and emergency personnel strategies. We designed mathematical models for these strategies, and verified through extensive experiments and visualizations that they significantly improved evacuation efficiency."
 date: Jan. 2019
+type: cs
 selected: false
 ---
 

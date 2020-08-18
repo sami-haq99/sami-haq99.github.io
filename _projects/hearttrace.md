@@ -1,15 +1,16 @@
 ---
 title: "Heart Trace"
-collection: projects_cs
-permalink: /projects/cs/hearttrace
-excerpt: "This project is for the Modern Software Engineering course and earned most of us a grade of A+. We built an Android app for diary writing and emotion tracking. Our users can track their moods using \"emotion tags\" in each diary and view their statistics. All data is encrypted and synchronized regularly. Our final app is both user-friendly and efficient, which has won us dozens of loyal users. Our project was rated the best team project by the instructor."
+collection: projects
+permalink: /projects/hearttrace
+excerpt: "This project is for the **Modern Software Engineering course** and earned most of us the **grade of A+**. We built an Android app for diary writing and emotion tracking. Our users can track their moods using \"emotion tags\" in each diary and view their statistics. All data is encrypted and synchronized regularly. Our final app is both user-friendly and efficient, which has won us dozens of loyal users. Our project was rated the best team project by the instructor."
 start_date: Mar. 2018
 end_date: Aug. 2018
 date: Aug. 2018
+type: cs
 selected: false
 ---
 
-This project is for the Modern Software Engineering course and earned most of us a grade of A+.
+This project is for the **Modern Software Engineering course** and earned most of us the **grade of A+**.
 
 We built an Android app for diary writing and emotion tracking. Our users can track their moods using "emotion tags" in each diary and view their statistics. All data is encrypted and synchronized regularly. Our final app is both user-friendly and efficient, which has won us dozens of loyal users. Our project was rated the best team project by the instructor.
 

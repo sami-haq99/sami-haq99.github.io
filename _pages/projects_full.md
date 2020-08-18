@@ -11,12 +11,16 @@ This is a list of all my projects; please visit [here](/projects/) for a list of
 
 # Computer Science
 
-{% for post in site.projects_cs reversed %}
-  {% include archive-single-mine.html %}
+{% for post in site.projects reversed %}
+  {% if post.type == 'cs' %}
+    {% include archive-single-mine.html %}
+  {% endif %}
 {% endfor %}
 
 # Microcontroller Unit
 
-{% for post in site.projects_mcu reversed %}
-  {% include archive-single-mine.html %}
+{% for post in site.projects reversed %}
+  {% if post.type == 'ee' %}
+    {% include archive-single-mine.html %}
+  {% endif %}
 {% endfor %}
