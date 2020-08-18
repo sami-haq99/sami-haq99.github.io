@@ -9,7 +9,7 @@ This is a list of all my projects; please visit [here](/projects/) for a list of
 
 {% include base_path %}
 
-# Computer Science
+## Computer Science
 
 {% for post in site.projects reversed %}
   {% if post.type == 'cs' %}
@@ -17,7 +17,7 @@ This is a list of all my projects; please visit [here](/projects/) for a list of
   {% endif %}
 {% endfor %}
 
-# Microcontroller Unit
+## Microcontroller Unit
 
 {% for post in site.projects reversed %}
   {% if post.type == 'ee' %}
