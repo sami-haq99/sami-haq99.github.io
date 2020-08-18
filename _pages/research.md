@@ -7,24 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-# Natural Language Processing
+## Publications
 
-My experience with NLP came from:
+* **Xueqing Wu**, Yingce Xia, Lijun Wu, Shufang Xie, Weiqing Liu, Jiang Bian, Tao Qin, Tie-Yan Liu, *Learn to Use Future Information in Simultaneous Translation*, arXiv preprint (under review). 2020. [Link](https://arxiv.org/abs/2007.05290)
+* Yixing Zhu, Jun Du, **Xueqing Wu**, *Adaptive Period Embedding for Representing Oriented Objects in Aerial Images*, IEEE Transactions on Geoscience and Remote Sensing. 2020. [Link](https://ieeexplore.ieee.org/document/9057525)
 
-* [Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Microsoft Research Asia, supervised by Dr. [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/), *Oct. 2019 - Jul. 2020*
-* [ScAi Lab](https://scai.cs.ucla.edu/), UCLA, supervised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) and Prof. [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/), *Jul. 2019 - Sep. 2019*
+## Projects
 
-{% for post in site.research_nlp reversed %}
-  {% include archive-single-mine.html %}
-{% endfor %}
-
-# Computer Vision
-
-At USTC, I joined two labs on computer vision:
-
-* [National Engineering Laboratory for Speech and Language Information Processing](http://nelslip.ustc.edu.cn/) (NEL-SLIP), supervised by Prof. [Jun Du](http://staff.ustc.edu.cn/~jundu/The%20team.html), *Sep. 2018 - Sep. 2019*
-* MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, supervised by Prof. [Weiping Li](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=1565), *Apr. 2019 - Jul. 2019*
-
-{% for post in site.research_cv reversed %}
+{% for post in site.research reversed %}
   {% include archive-single-mine.html %}
 {% endfor %}
