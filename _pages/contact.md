@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
-author\_profile: true
+author_profile: true
 ---
 
 * **Phone**:  (+86) 18326689525
