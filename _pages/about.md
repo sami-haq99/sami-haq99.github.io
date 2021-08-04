@@ -2,9 +2,6 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a M.S. student in computer science in University of Illinois at Urbana Champaign (UIUC) from fall 2021. Previously I graduated from University of Science and Technology of China (USTC) in 2020, and I have work experience in Microsoft Research Asia (MSRA) and Bytedance AI Lab. I am interested in Natural Language Processing (NLP), especially text generation and knowledge-aware NLP.
