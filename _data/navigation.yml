@@ -3,9 +3,6 @@ main:
   - title: "Awards & Honors"
     url: /honors/
 
-  - title: "Contact"
-    url: /contact/
-    
   - title: "CV"
     url: /files/CV.pdf
 
