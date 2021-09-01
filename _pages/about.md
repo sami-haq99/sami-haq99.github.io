@@ -8,7 +8,9 @@ I am a M.S. student in computer science in University of Illinois Urbana-Champai
 
 Prior to that, I got my B.S. degree from University of Science and Technology of China (USTC) in 2020, and I have work experience in Microsoft Research Asia (MSRA) and Bytedance AI Lab.
 
-My research interests lie in Natural Language Processing (NLP), especially text generation and knowledge-aware NLP.
+My research interests lie in Natural Language Processing (NLP), especially text generation, information extraction, and knowledge-aware NLP.
+
+**I am currently looking for research internship opportunities in summer 2022.**
 
 ## Education
 
