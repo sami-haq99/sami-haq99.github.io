@@ -10,7 +10,7 @@ Prior to that, I got my B.S. degree from University of Science and Technology of
 
 My research interests lie in Natural Language Processing (NLP), especially text generation, information extraction, and knowledge-aware NLP.
 
-**I am currently looking for research internship opportunities in summer 2022.**
+**I am looking for NLP research (preferred) or engineer internship opportunities for summer 2022.**
 
 ## Education
 
