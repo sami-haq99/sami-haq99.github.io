@@ -8,8 +8,6 @@ I am a M.S. student in computer science in University of Illinois Urbana-Champai
 
 My research interests lie in Natural Language Processing (NLP), especially text generation, information extraction, and knowledge-aware NLP.
 
-**I am looking for NLP research (preferred) or engineer internship opportunities for summer 2022.**
-
 ## Education
 
 University of Illinois Urbana-Champaign, *08/2021 - present*
