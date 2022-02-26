@@ -4,19 +4,23 @@ title: ""
 author_profile: true
 ---
 
-I am a M.S. student in computer science in University of Illinois Urbana-Champaign (UIUC) working with Prof. Heng Ji since 08/2021. Prior to that, I got my B.S. degree from University of Science and Technology of China (USTC) in 2020, and I have work experience in Microsoft Research Asia (MSRA) and Bytedance AI Lab.
+I am a PhD student at Dept of Software and Computer Engineering, College of Electrical and Mechanical Engeneering in NUST. Prior to that, I got my MS Software Engineering degree from NUST in 2018, I have been working with different organizations as Sofware Engineering since 2013.
 
-My research interests lie in Natural Language Processing (NLP), especially text generation, information extraction, and knowledge-aware NLP.
+My research interests lie in Natural Language Processing (NLP), especially text classification, information extraction, and neural machine translation.
 
 ## Education
 
-University of Illinois Urbana-Champaign, *08/2021 - present*
+NUST, *08/2018 - present*
 
-* M.S. (thesis) in Computer Science. Advisor: Prof. Heng Ji
+* M.S. (thesis) in Software Engineering . Advisor: Prof. Farooque Azam
 
-University of Science and Technology, *09/2016 - 06/2020*
+Quaid-i-Azam University, *09/2011 - 12/2013*
 
-* B.S. in Electronic Engineering and Information Science
+* M.Sc. in Information Technology
+
+Virtual University of Pakistan, *01/2009 - 5/2011*
+
+* B.Sc. in Computer Science  
 
 ## Publications
 * **Xueqing Wu**, Jiacheng Zhang, Hang Li, *Text-to-Table: A New Way of Information Extraction*, ACL 2022 (to appear). 2021.
