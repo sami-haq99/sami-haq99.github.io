@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xueqing Wu"
+title                    : "Sami Ul Haq"
 title_separator          : "-"
-name                     : &name "Xueqing Wu"
+name                     : &name "Sami Ul Haq"
 description              : &description "personal description"
-url                      : "https://shirley-wu.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sami-haq99.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shirley-wu/shirley-wu.github.io"
+repository               : "sami-haq99/bio.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xueqing Wu"
+  name             : "Sami Ul Haq"
   avatar           : "smaller_me.jpg"
-  bio              : "MSCS in UIUC"
+  bio              : "MS SE in NUST"
   location         :
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=6iUVrU8AAAAJ"
-  email            : "xueqing8@illinois.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=2edJPRMAAAAJ&hl=en"
+  email            : "sami.haq99@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shirley-wu"
+  github           : "sami-haq99"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xueqing-wu-12346b197"
+  linkedin         : "sami-ul-haq-57025539"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "xueqing_w"
+  twitter          : "Sami06055079"
   vine             :
   weibo            :
   xing             :
