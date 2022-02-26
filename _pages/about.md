@@ -1,7 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a PhD student at Dept of Software and Computer Engineering, College of Electrical and Mechanical Engeneering in NUST. Prior to that, I got my MS Software Engineering degree from NUST in 2018, I have been working with different organizations as Sofware Engineering since 2013.
