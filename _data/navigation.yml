@@ -2,10 +2,11 @@
 main:
   - title: "Awards & Honors"
     url: /honors/
-
+    
+  - title: "Teaching"
+    url: /pub/
+    
   - title: "CV"
     url: /cv/
   
-  - title: "Publications"
-    url: /pub/
 
