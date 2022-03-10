@@ -14,7 +14,11 @@ My research interests lie in Natural Language Processing (NLP), especially text 
 
 ## Education
 
+
 NUST, *08/2018 - present*
+* PhD Neural Machine Translation. Advisor: Prof. Arslan Shaukat
+
+NUST, *08/2014 - 07/2017*
 
 * M.S. (thesis) in Software Engineering . Advisor: Prof. Farooque Azam
 
@@ -27,18 +31,21 @@ Virtual University of Pakistan, *01/2009 - 5/2011*
 * B.Sc. in Computer Science  
 
 ## Publications
-* **Xueqing Wu**, Jiacheng Zhang, Hang Li, *Text-to-Table: A New Way of Information Extraction*, ACL 2022 (to appear). 2021.
-* **Xueqing Wu**, Lewen Wang, Yingce Xia, Weiqing Liu, Lijun Wu, Shufang Xie, Tao Qin, Tie-Yan Liu, *Temporally Correlated Task Scheduling for Sequence Learning*, ICML. 2021. [Link](http://proceedings.mlr.press/v139/wu21e.html)
-* **Xueqing Wu**, Yingce Xia, Jinhua Zhu, Lijun Wu, Shufang Xie, Tao Qin, *A Study of BERT for Context-Aware Neural Machine Translation*, ACML journal track. 2021. [Link](https://link.springer.com/article/10.1007/s10994-021-06070-y)
-* **Xueqing Wu**, Yingce Xia, Jinhua Zhu, Lijun Wu, Shufang Xie, Yang Fan, Tao Qin, *mixSeq: A Simple Data Augmentation Method for Neural Machine Translation*, IWSLT Workshop. 2021. [Link](https://aclanthology.org/2021.iwslt-1.23)
-* Yixing Zhu, Jun Du, **Xueqing Wu**, *Adaptive Period Embedding for Representing Oriented Objects in Aerial Images*, IEEE Transactions on Geoscience and Remote Sensing. 2020. [Link](https://ieeexplore.ieee.org/document/9057525)
+
+* **Sami Ul Haq**, Sadaf Abdul Rauf, Arslan Shoukat, and Noor-e- Hira. *Improving Document-Level Neural Machine Translation with Domain Adaptation*. In Proceedings of the Fourth Workshop on Neural Generation and Translation,[Link](https://aclanthology.org/2020.ngt-1.27/)
+* **Sami Ul Haq**, Sadaf Abdul Rauf, Arsalan Shaukat, and Abdullah Saeed. *Document Level NMT of Low-Resource Languages with Backtranslation*. In Proceedings of the Fifth Conference on Machine Translation, [Link](https://aclanthology.org/2020.wmt-1.53/)
+* Sumbal Naz, Sadaf Abdul Rauf, and **Sami Ul Haq** *FJWU Participation for the WMT21 Biomedical Translation Task*. In Proceedings of the Sixth Conference on Machine Translation,[Link](https://aclanthology.org/2021.wmt-1.86/)
+* Sumbal Naz, Sadaf Abdul Rauf, Noor-e- Hira, and **Sami Ul Haq**  *FJWU participation for the WMT20 Biomedical Translation Task*. In Proceedings of the Fifth Conference on Machine Translation, [Link](https://aclanthology.org/2020.wmt-1.92/)
+
 
 ## Employment
 
-Bytedance AI Lab, *06/2020 - 07/2021*
-* Research intern at LITG group. Mentor: Dr. Hang Li
-* Conduct research on text generation. One paper in submission.
+Public Sector Organization, *10/2018 - Present*
+* Senior Software Engineer
+* Text Classification, Summarization and Analysis
 
-Microsoft Research Asia, *10/2019 - 07/2020*
-* Research intern at Machine Learning group. Mentor: Dr. Tao Qin
-* Conduct research on machine translation. Three papers on ICML 2021, ACML journal track 2021, and IWSLT Workshop 2021
+Pakistan Air Force, *07/2013 - 10/2018*
+* Software Engineer at Project Vision
+* Analysis, Desing and Implementation of Command & Control Systesm for Air Defense
+* Customization of Network Protocols for Distributed Services Architecture applications
+* Cross Platform Development to support Mac, Windows & Linux
