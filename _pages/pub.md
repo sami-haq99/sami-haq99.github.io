@@ -1,13 +1,12 @@
-
 ---
 layout: archive
 title: ""
-permalink: /pub/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /pub
+  - /resume
 ---
 
 {% include base_path %}
 
-<object data="/files/Sami_List_of_publications.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="/files/Sami_Resume_PhD (1).pdf" width="1000" height="1000" type='application/pdf'/>
