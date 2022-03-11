@@ -1,12 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
-*This is not an exhaustive list of my publications. In this page, I have tried to highlight some of the interesting projects that I have worked on in the past where I proposed novel computational methods. For a detailed list of my publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=gyy0YOIAAAAJ&hl=en) page or my CV.*
-
-# **1. Conceptual Spaces**
+*This is not an exhaustive list of my research projects. In this page, I have tried to highlight some of the interesting projects that I have worked on in the past few years.
+# **1. MODAIS**
 <img src="/images/conceptual_spaces_psychology.png" width="400"> <img src="/images/interpretable_embeding.png" width="400">
 
 
