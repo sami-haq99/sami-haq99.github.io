@@ -25,9 +25,14 @@ A real-world casestudy was implemented to evaluate the framework.
 
 # **2. Reverse Engineering UML (Static and Dynamic) Models from Java Source Code**
 We proposed a novel MDRE framework named as ‘‘Source to Model Framework (Src2MoF)’’ to generate Unified Modeling Language (UML) structural (class) and behavioral (activity) diagrams from the Java source code. Src2MoF is based on the principles of Model Driven Engineering (MDE), which use models as first-class citizens alleviating the complexity of software systems.
-<img src="/images/tweets_activity.png" width="450">
-<img src="/images/ryde_depression.png" width="450">
 
+<img src="/images/javatouml.JPG" width="450">
+
+Transformation rules were defined to transform the code units of java source code to UML structures.
+
+<img src="/images/javatoactivity.JPG" width="450">
+
+More information can be found at given link below.
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
 | 2019 | A model driven reverse engineering framework for generating high level UML models from Java source code | IEEE Access | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8890645) |
