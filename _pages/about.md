@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Dept of Software and Computer Engineering, College of Electrical and Mechanical Engeneering in NUST. Prior to that, I got my MS Software Engineering degree from NUST in 2018, I have been working with different organizations as Sofware Engineering since 2013.
+I am a PhD student at Dept of Software and Computer Engineering, College of Electrical and Mechanical Engeneering in NUST. Prior to that, I got my MS Software Engineering degree from NUST in 2018, I have been working with different organizations as Software Engineer since 2013.
 
 My research interests lie in Natural Language Processing (NLP), especially text classification, information extraction, and neural machine translation.
 
