@@ -11,6 +11,10 @@ The modified architectue of Transformer model is shown below which incorporates 
 
 <img src="/images/DLNMT.png" width="400">
 
+| Year | Paper Title | Venue | PDF |
+|-------|--------|---------|---------|
+| 2020 |  Improving document-level neural machine translation with domain adaptation | WNGT | [PDF](https://aclanthology.org/2020.ngt-1.27/) |
+
 # **2. Deep Learning for Text Analysis**
 # **3. MODAIS**
 In my master’ thesis research work, I examined the use of model driven software engineering for design and analysis of physical security systems. In my research, I developed a framework to support the modeling of physical infrastructures in the form of a platform independent model using Unified Modeling Language (UML). Furthermore, the transformation engine was developed to generate quantitative models based on Bayesian Network from UML models to perform validation. 
