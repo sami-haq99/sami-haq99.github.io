@@ -11,5 +11,5 @@ author_profile: true
 * **Gold Medal**:                 Quaid-i-Azam University (QAU), Pakistan, *Nov. 2016*
 * **Certificate of Merit**:       Quaid-i-Azam University (QAU), Pakistan, *Dec. 2013*
 * **Academic Scholorship Award**: Quaid-i-Azam University (QAU), Pakistan, *Sep. 2011 to Dec. 2013* 
-* **Certificate of Appreciation**:Pakistan Air Force (PAF), *Jul. 2017*
+* **Certificate of Appreciation**: Pakistan Air Force (PAF), *Jul. 2017*
 
