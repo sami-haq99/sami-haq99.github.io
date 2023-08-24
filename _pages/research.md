@@ -6,7 +6,7 @@ author_profile: true
 ---
 *This is not an exhaustive list of my research projects. In this page, I have tried to highlight some of the interesting projects that I have worked on in the past few years.*
 # **1. Neural Machine Translation**
-In my PhD research, I am working on building end-to-end context-aware Neural Machine Translator. I have worked on different NMT toolkits, mainly I implemented my research using FairSeq. The main challenge was to deal with low availability of parallel document-level data which is primary requirement for building context-aware NMT, we use techniques like Domain Adoptation, Transfer Learning and Back-translation to deal with this. We also utilized pre-trained models to like BERT, EMLO and GLOVE in different investigations for performance improvements.
+At FJWU NLP Lab, I am working on building end-to-end context-aware Neural Machine Translator. I have worked on different NMT toolkits, mainly I implemented my research using FairSeq. The main challenge was to deal with low availability of parallel document-level data which is primary requirement for building context-aware NMT, we use techniques like Domain Adoptation, Transfer Learning and Back-translation to deal with this. We also utilized pre-trained models to like BERT, EMLO and GLOVE in different investigations for performance improvements.
 The modified architectue of Transformer model is shown below which incorporates additional encoder model for context-aware NMT.
 
 <img src="/images/DLNMT.png" width="400">
