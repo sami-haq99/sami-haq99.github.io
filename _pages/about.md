@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a PhD student in the School of Applied Languages and Intercultural Studies (SALIS) at DCU. My Ph.D. research centers around the evaluation of Multimodal Machine Translation (MT), aiming to develop automatic metrics for context-aware evaluation of the multimodal aspects of MT systems. Dr. Sheila Castilho supervises my work.
+I am a PhD student in the School of Applied Languages and Intercultural Studies (SALIS) at DCU. My Ph.D. research centers around the evaluation of Multimodal Machine Translation (MT), aiming to develop automatic metrics for context-aware evaluation of the multimodal aspects of MT systems.
 
-I graduated from the National University of Sciences and Technology (Pakistan) with a Master's degree in Software Engineering. Before joining DCU, I worked as a Software Engineer for several years in industry, dealing with low-resourced machine translation, user-centric intelligent data leak prevention systems, and multilingual text-classification.
+I graduated from the National University of Sciences and Technology (Pakistan) with a Master's degree in Software Engineering. In my most recent role, I worked as a Software Engineer for several years at Public Sector Organization, dealing with low-resourced machine translation, user-centric intelligent data leak prevention systems, and multilingual text-classification. 
 
 My recent research focuses on multimodal machine learning, multilingual NLP, and both human and automatic evaluation of MT systems.
 
