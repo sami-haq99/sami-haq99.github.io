@@ -20,7 +20,7 @@ My recent research focuses on multimodal machine learning, multilingual NLP, and
 SALIS, DCU, *09/2023 - 08/2027*
 
 * PhD in Machine Translation . Advisor: Dr. Sheila Castilho
-* 
+  
 NUST, *08/2014 - 07/2017*
 
 * M.S. (thesis) in Software Engineering . Advisor: Prof. Farooque Azam
@@ -48,6 +48,7 @@ Fatima Jinnah Women University, */2018 - 2023*
 * Machine Translation
 * Context-aware Neural Machine Translation
 * Low-resourced NLP
+
 NESCOM, Public Sector Organization, */2018 - 2023*
 * Senior Software Engineer
 * Text Classification, Summarization and Analysis
