@@ -44,7 +44,7 @@ Virtual University of Pakistan, *01/2009 - 5/2011*
 ## Employment
 
 OnlineGuru.CA,  */2023 - 2024*
-* Technical Manager (Part-time)
+* Technical Manager (Part-time Consultancy)
 * Technical and Non-Technical SEO
 * Evaluate and Overview Content, SMM, On-Page, Off-Page SEO strategies
 
