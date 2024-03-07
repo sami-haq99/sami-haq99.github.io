@@ -6,7 +6,7 @@ author_profile: true
 
 
 ## Scholarships & Honors
-* **PhD Scholarship Award**       Science Foundation Ireland, D-real (SFI d-real), Ireland *(2023-2027*
+* **PhD Scholarship Award**:       Science Foundation Ireland, D-real (SFI d-real), Ireland *(2023-2027*
 * **Merit Award (3MT)**:          College of E&ME, (NUST), Pakistan (2022)
 * **Summer College**:             Selected for 1-week International Summer College (INSC), Pakistan (2022)
 * **Gold Medal**:                 Quaid-i-Azam University (QAU), Pakistan, *Nov. 2016*
