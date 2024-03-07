@@ -43,9 +43,15 @@ Virtual University of Pakistan, *01/2009 - 5/2011*
 
 ## Employment
 
+Fatima Jinnah Women University, */2018 - 2023*
+* Research Assistant (Part-time) 
+* Machine Translation
+* Context-aware Neural Machine Translation
+* Low-resourced NLP
 NESCOM, Public Sector Organization, */2018 - 2023*
 * Senior Software Engineer
 * Text Classification, Summarization and Analysis
+* Transfer Learning, Multi-lingual Transfer & Language Modelling for different NLP projects
 
 Project Vision, Pakistan Air Force, *07/2013 - 10/2018*
 * Software Engineer at Project Vision
