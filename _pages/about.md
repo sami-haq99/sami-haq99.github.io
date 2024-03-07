@@ -43,6 +43,12 @@ Virtual University of Pakistan, *01/2009 - 5/2011*
 
 ## Employment
 
+OnlineGuru.CA,  */2023 - 2024*
+* Technical Manager (Part-time)
+* Technical and Non-Technical SEO
+* Evaluate and Overview Content, SMM, On-Page, Off-Page SEO strategies
+
+
 Fatima Jinnah Women University, */2018 - 2023*
 * Research Assistant (Part-time) 
 * Machine Translation
