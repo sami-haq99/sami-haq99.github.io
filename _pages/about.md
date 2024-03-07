@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am working as NLP research assistant at Fatima Jinnah Women University, Pakistan. Prior to that, I got my MS Software Engineering degree from NUST in 2018, I have been working with different organizations as Software Engineer since 2013.
 
-My research interests lie in Natural Language Processing (NLP), especially text classification, information extraction, and neural machine translation.
+I am a PhD student in the School of Applied Languages and Intercultural Studies (SALIS) at DCU. My Ph.D. research centers around the evaluation of Multimodal Machine Translation (MT), aiming to develop automatic metrics for context-aware evaluation of the multimodal aspects of MT systems. Dr. Sheila Castilho supervises my work.
+
+I graduated from the National University of Sciences and Technology (Pakistan) with a Master's degree in Software Engineering. Before joining DCU, I worked as a Software Engineer for several years in industry, dealing with low-resourced machine translation, user-centric intelligent data leak prevention systems, and multilingual text-classification.
+
+My recent research focuses on multimodal machine learning, multilingual NLP, and both human and automatic evaluation of MT systems.
 
 ## Education
 
+SALIS, DCU, *09/2023 - 08/2027*
+
+* PhD in Machine Translation . Advisor: Dr. Sheila Castilho
+* 
 NUST, *08/2014 - 07/2017*
 
 * M.S. (thesis) in Software Engineering . Advisor: Prof. Farooque Azam
@@ -36,11 +43,11 @@ Virtual University of Pakistan, *01/2009 - 5/2011*
 
 ## Employment
 
-Public Sector Organization, *10/2018 - Present*
+NESCOM, Public Sector Organization, */2018 - 2023*
 * Senior Software Engineer
 * Text Classification, Summarization and Analysis
 
-Pakistan Air Force, *07/2013 - 10/2018*
+Project Vision, Pakistan Air Force, *07/2013 - 10/2018*
 * Software Engineer at Project Vision
 * Analysis, Desing and Implementation of Command & Control Systesm for Air Defense
 * Customization of Network Protocols for Distributed Services Architecture applications
