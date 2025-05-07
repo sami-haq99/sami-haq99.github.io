@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /mme-poster/
+permalink: /poster/
 author_profile: true
 redirect_from:
   - /poster
