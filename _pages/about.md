@@ -43,10 +43,9 @@ Virtual University of Pakistan, *01/2009 - 5/2011*
 
 ## Employment
 
-OnlineGuru.CA,  */2023 - 2024*
-* Technical Manager (Part-time Consultancy)
-* Technical and Non-Technical SEO
-* Evaluate and Overview Content, SMM, On-Page, Off-Page SEO strategies
+Dublin City University (DCU),  */2023 - 2027*
+* Doctoral Researcher
+* Tutor
 
 
 Fatima Jinnah Women University, */2018 - 2023*
@@ -55,7 +54,7 @@ Fatima Jinnah Women University, */2018 - 2023*
 * Context-aware Neural Machine Translation
 * Low-resourced NLP
 
-NESCOM, Public Sector Organization, */2018 - 2023*
+Public Sector Organization, */2018 - 2023*
 * Senior Software Engineer
 * Text Classification, Summarization and Analysis
 * Transfer Learning, Multi-lingual Transfer & Language Modelling for different NLP projects
